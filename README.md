@@ -32,11 +32,11 @@ Also included with the Pogoplug:
 * 12V/1A power adapter
 * 3 foot ethernet cable
 
-**UPDATE:** I have verified this script also works with the **[Pogoplug Series 4](http://www.amazon.com/Pogoplug-Series-4-Backup-Device/dp/B006I5MKZY)**.  Twice the price, with the addition of a SATA port and two addition USB ports (and a 12V/2A power adapter).
+**UPDATE:** I have verified this script also works with the **[Pogoplug Series 4](http://amzn.to/2g04R4L)**.  Twice the price, with the addition of a SATA port and two addition USB ports (and a 12V/2A power adapter).
 
 ## Running the script
 
-So, you ordered a Pogoplug Mobile from [amazon.com](http://www.amazon.com/Pogoplug-Backup-Sharing-Discontinued-Manufacturer/dp/B005GM1Q1O) and it just arrived.
+So, you ordered a Pogoplug Mobile from [amazon.com](http://amzn.to/2fEkZEH) and it just arrived.
 
 Here's what you do:
 
@@ -152,6 +152,7 @@ EOF
 ### 2015/10/22
 
 * Verified the script also works with the **Pogoplug Series 4** (model **POGO-V4-A3-01**)
+![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006I5MKZY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=greratseaeng-20)
 Higher cost, but much more powerful with extra ports http://amzn.to/2g04R4L
 
 ### 2015/10/8
