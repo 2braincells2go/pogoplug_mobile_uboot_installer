@@ -152,7 +152,9 @@ EOF
 ### 2015/10/22
 
 * Verified the script also works with the **Pogoplug Series 4** (model **POGO-V4-A3-01**)
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006I5MKZY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=greratseaeng-20)
+
+![](https://images-na.ssl-images-amazon.com/images/I/31YhC%2BypbXL._SL160_.jpg)
+
 Higher cost, but much more powerful with extra ports http://amzn.to/2g04R4L
 
 ### 2015/10/8
