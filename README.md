@@ -153,7 +153,7 @@ EOF
 
 * Verified the script also works with the **Pogoplug Series 4** (model **POGO-V4-A3-01**)
 
-![](https://camo.githubusercontent.com/7e3fb1a01f8c74379165aed23f6a263ad3bd706f/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f3331596843253242797062584c2e5f534c3136305f2e6a7067)
+![](https://github.com/2braincells2go/pogoplug_mobile_uboot_installer/blob/master/.github_media/31YhC%2BypbXL._SL160_%5B1%5D.jpg)
 
 Higher cost, but much more powerful with extra ports http://amzn.to/2g04R4L
 
